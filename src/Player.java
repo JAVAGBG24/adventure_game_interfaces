@@ -1,5 +1,5 @@
 public class Player {
-/*    private String name;
+    private String name;
     private int health;
     private Room currentRoom;
 
@@ -30,7 +30,7 @@ public class Player {
 
     public Room getCurrentRoom() {
         return currentRoom;
-    }*/
+    }
 }
 
 
